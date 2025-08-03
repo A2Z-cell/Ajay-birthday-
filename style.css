@@ -248,7 +248,7 @@ img {
     position: absolute;
     background-color: #fff;
     width: 250px;
-    height: 400px;
+    height: 350px;
     z-index: -1;
     left: 0;
     top: 0;
@@ -263,7 +263,7 @@ img {
 
 .inside-text {
     position: relative;
-    top: -270px;
+    top: -290px;
     left: 30px;
     transform: scale(0.7);
 }
@@ -283,5 +283,6 @@ p {
     margin-left: 150px;
 
 }
+
 
 
