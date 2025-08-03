@@ -270,7 +270,7 @@ img {
 
 .wishes {
     position: relative;
-    top: -200px;
+    top: -150px;
     margin: 25px;
 }
 
@@ -281,4 +281,5 @@ p {
 
 .name {
     margin-left: 150px;
+
 }
