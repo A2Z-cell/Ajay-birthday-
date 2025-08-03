@@ -248,7 +248,7 @@ img {
     position: absolute;
     background-color: #fff;
     width: 250px;
-    height: 350px;
+    height: 400px;
     z-index: -1;
     left: 0;
     top: 0;
@@ -263,14 +263,14 @@ img {
 
 .inside-text {
     position: relative;
-    top: -290px;
+    top: -270px;
     left: 30px;
     transform: scale(0.7);
 }
 
 .wishes {
     position: relative;
-    top: -220px;
+    top: -200px;
     margin: 25px;
 }
 
@@ -283,4 +283,5 @@ p {
     margin-left: 150px;
 
 }
+
 
